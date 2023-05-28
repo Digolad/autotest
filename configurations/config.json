@@ -1,0 +1,9 @@
+{
+  "url": "https://userinyerface.com",
+  "browser": {
+    "browser_name": "chrome",
+    "mode": "--incognito"
+  },
+  "wait_until_load": 10,
+  "instance_count": 3
+}
